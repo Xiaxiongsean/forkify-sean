@@ -1,0 +1,29 @@
+{
+  "folders": [
+	{
+		"path": "."
+	}
+]
+} // {
+//   "folders": [
+//     {
+//       "path": "C:\\Users\\xiong\\Desktop\\web developer"
+//     },
+//     {
+//       "path": "..\\..\\..\\..\\..\\Desktop\\project"
+//     }
+//   ],
+//   "settings": {
+//     "liveServer.settings.multiRootWorkspaceName": "project"
+//   },
+//   "launch": {
+//     "configurations": [
+//       {
+//         "type": "pwa-msedge",
+//         "name": "http://launch.json",
+//         "request": "launch",
+//         "url": "http://launch.json"
+//       }
+//     ]
+//   }
+// }
